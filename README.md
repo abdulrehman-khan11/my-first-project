@@ -1,2 +1,4 @@
 # my-first-project
-Demo
+This is my first project
+Author: Abdul Rehman
+
